@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code">
+				<Option output="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="code/fast">
+				<Option output="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/cmake-build-debug/code" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 code/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/snigdha/Pictures/Untitled\ Folder/1405021\ (3)/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/coff.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/coff2flat.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/coff2noff.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/d.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/disasm.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/encode.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/execute.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/instr.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/int.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/main.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/noff.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/opstrings.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/out.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/bin/system.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/directory.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/directory.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/filehdr.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/filehdr.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/filesys.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/filesys.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/fstest.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/openfile.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/openfile.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/synchdisk.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/filesys/synchdisk.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/console.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/console.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/disk.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/disk.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/interrupt.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/interrupt.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/machine.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/machine.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/mipssim.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/mipssim.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/network.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/network.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/stats.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/stats.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/sysdep.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/sysdep.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/timer.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/timer.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/translate.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/machine/translate.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/network/nettest.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/network/post.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/network/post.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/array.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/echo1.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/exectest.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/exittest.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/halt.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/matmult.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/shell.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/sort.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/test/start.c">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/consumer.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/consumer.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/copyright.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/list.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/main.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/preemptive.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/preemptive.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/producer.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/producer.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/scheduler.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/scheduler.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/switch.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/synch.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/synch.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/synchlist.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/system.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/system.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/thread.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/thread.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/threadtest.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/utility.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/threads/utility.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/SynchConsole.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/SynchConsole.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/Table.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/Table.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/addrspace.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/addrspace.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/bitmap.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/bitmap.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/exception.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/memoryManager.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/memoryManager.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/progtest.cc">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/userprog/syscall.h">
+			<Option target="code"/>
+		</Unit>
+		<Unit filename="/home/snigdha/Pictures/Untitled Folder/1405021 (3)/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
